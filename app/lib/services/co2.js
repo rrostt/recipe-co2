@@ -28,7 +28,7 @@ const equivalents = {
 
   fruit: 'fruit, apple, banana, orange, kiwi',
   'sallad greens': 'sallad, tomato, cucumber, pea, leek, celery, paprika, cauliflower',
-  'root vegetables': 'onion, carrot, garlic',
+  'root vegetables': 'onion, carrot, garlic, swede, turnip',
   greens: '',
 
   juice: 'juice',
